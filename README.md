@@ -6,6 +6,6 @@
 3. Shortest Job First.
 
 
-<b>Last Updated: 22-July-2015.
+Last Updated: 22-July-2015.
 
-Created on: 6-July-2015.</b>
+Created on: 6-July-2015.
